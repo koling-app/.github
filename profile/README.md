@@ -13,7 +13,8 @@ Daftar kontributor dan panitia organisasi:
 
 - Dewa Yoga Pratama ([@nama_kontributor1](https://github.com/nama_kontributor1))
 - Avil Mahrin ([@nama_kontributor2](https://github.com/avilmahrin00))
-- Nama Kontributor 3 ([@nama_kontributor3](https://github.com/nama_kontributor3))
+- Daffa Aqilah Sofiyan ([@nama_kontributor3](https://github.com/nama_kontributor3))
+- 
 
 Jika ingin berkontribusi, silakan baca panduan [Cara Berkontribusi](#cara-berkontribusi).
 
