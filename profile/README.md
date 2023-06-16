@@ -4,15 +4,35 @@ Bangkit 2023 Product-Based Team is a multidisciplinary team consisting of member
 
 ## Kontributor
 
-Daftar kontributor dan panitia organisasi:
+<p align="center">
+  <table>
+    <tr>
+      <th>Nama</th>
+      <th>Username</th>
+    </tr>
+    <tr>
+      <td>Dewa Yoga Pratama</td>
+      <td>dewayp</td>
+    </tr>
+    <tr>
+      <td>Avil Mahrin</td>
+      <td>avilmahrin00</td>
+    </tr>
+    <tr>
+      <td>Daffa Aqilah</td>
+      <td>daffaaqilah732</td>
+    </tr>
+    <tr>
+      <td>Kisana Adzan Sitorus</td>
+      <td>kisanaadzan</td>
+    </tr>
+    <tr>
+      <td>Arianto</td>
+      <td>arianto-510</td>
+    </tr>
+  </table>
+</p>
 
-| Nama                | Username       |
-|---------------------|----------------|
-| Dewa Yoga Pratama   | dewayp         |
-| Avil Mahrin         | avilmahrin00   |
-| Daffa Aqilah        | daffaaqilah732 |
-| Kisana Adzan Sitorus| kisanaadzan    |
-| Arianto             | arianto-510    |
 
 ## Proyek
 ![Mockups (1)](https://github.com/koling-app/.github/assets/112049376/420c8e3c-a544-4ca6-8884-5c0bffdda5bd)
