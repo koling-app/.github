@@ -7,8 +7,8 @@ Bangkit 2023 Product-Based Team is a multidisciplinary team consisting of member
 <div align="center">
   <table>
     <tr>
-      <th>Nama</th>
-      <th>Username</th>
+      <th style="background-color: #FE4040; color: white;">Nama</th>
+      <th style="background-color: #FE4040; color: white;">Username</th>
     </tr>
     <tr>
       <td>Dewa Yoga Pratama</td>
@@ -32,7 +32,6 @@ Bangkit 2023 Product-Based Team is a multidisciplinary team consisting of member
     </tr>
   </table>
 </div>
-
 
 
 ## Proyek
