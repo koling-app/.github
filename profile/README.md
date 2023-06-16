@@ -4,7 +4,7 @@ Bangkit 2023 Product-Based Team is a multidisciplinary team consisting of member
 
 ## Kontributor
 
-<p align="center">
+<div align="center">
   <table>
     <tr>
       <th>Nama</th>
@@ -31,7 +31,8 @@ Bangkit 2023 Product-Based Team is a multidisciplinary team consisting of member
       <td>arianto-510</td>
     </tr>
   </table>
-</p>
+</div>
+
 
 
 ## Proyek
