@@ -14,10 +14,8 @@ Daftar kontributor dan panitia organisasi:
 | Kisana Adzan Sitorus| kisanaadzan    |
 | Arianto             | arianto-510    |
 
-
-Jika ingin berkontribusi, silakan baca panduan [Cara Berkontribusi](#cara-berkontribusi).
-
 ## Proyek
+![Mockups (1)](https://github.com/koling-app/.github/assets/112049376/420c8e3c-a544-4ca6-8884-5c0bffdda5bd)
 
 ### KOLING - Emergency Services Application
 
