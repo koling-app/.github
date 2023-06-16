@@ -11,10 +11,14 @@ Bangkit 2023 Product-Based Team is a multidisciplinary team consisting of member
 
 Daftar kontributor dan panitia organisasi:
 
-- Dewa Yoga Pratama ([@nama_kontributor1](https://github.com/nama_kontributor1))
-- Avil Mahrin ([@avilmahrin00](https://github.com/avilmahrin00))
-- Daffa Aqilah Sofiyan ([@nama_kontributor3](https://github.com/nama_kontributor3))
-- 
+| Nama                | Username       |
+|---------------------|----------------|
+| Dewa Yoga Pratama   | dewayp         |
+| Avil Mahrin         | avilmahrin00   |
+| Daffa Aqilah        | daffaaqilah732 |
+| Kisana Adzan Sitorus| kisanaadzan    |
+| Arianto             | arianto-510    |
+
 
 Jika ingin berkontribusi, silakan baca panduan [Cara Berkontribusi](#cara-berkontribusi).
 
