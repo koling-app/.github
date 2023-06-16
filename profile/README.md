@@ -2,11 +2,6 @@
 
 Bangkit 2023 Product-Based Team is a multidisciplinary team consisting of members focused on developing the Koling App application. This team consists of specialists in the fields of Mobile Development, Machine Learning, and Cloud Computing. Koling is an innovative mobile application aimed at facilitating seamless communication with emergency and general services in Indonesia
 
-## Daftar Isi
-
-- [Kontributor](#kontributor)
-- [Proyek](#proyek)
-
 ## Kontributor
 
 Daftar kontributor dan panitia organisasi:
